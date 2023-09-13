@@ -4,5 +4,4 @@
 - 💞️ I’m looking to collaborate on various beginner level open-source projects.
 - 📫 Connect with me on
 LinkedIn:   https://linkedin.com/in/nilashis-saha
-Twitter:
-https://twitter.com/_aFirma_ 
+Twitter: https://twitter.com/_aFirma_ 
