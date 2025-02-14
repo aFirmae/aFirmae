@@ -7,7 +7,7 @@ LinkedIn:   https://linkedin.com/in/nilashis-saha
 
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Nilashis+Mahato...;Computer+Science+Student;🤖Prompt-Engineer;🚀A.I-Enthusiast...;Currently+learning+LLM-building;Currently+working+on+RAG...;📈Data-Analyst+Explorer...;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Nilashis+Saha...;Computer+Science+Student;🤖Prompt-Engineer;🚀A.I-Enthusiast...;Currently+learning+LLM-building;Currently+working+on+RAG...;📈Data-Analyst+Explorer...;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
     
 
 # 💻 Tech Stack:
@@ -15,13 +15,13 @@ LinkedIn:   https://linkedin.com/in/nilashis-saha
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AgnikanMahato&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aFirmae&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AgnikanMahato&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=aFirmaelimit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AgnikanMahato&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=aFirmae&icon=0&color=3)](https://visitcount.itsvg.in)
