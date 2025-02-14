@@ -20,8 +20,5 @@ LinkedIn:   https://linkedin.com/in/nilashis-saha
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aFirmaelimit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=aFirmae&icon=0&color=3)](https://visitcount.itsvg.in)
