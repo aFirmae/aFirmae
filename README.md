@@ -1,24 +1,38 @@
-- 👋 Hi, I’m Nilashis Saha
-- 👀 I’m interested in Web/App Development. 
-- 🌱 I’m currently learning how to create and deploy Frontend using JS, Python and other framewoks.
-- 💞️ I’m looking to collaborate on various beginner level open-source projects.
-- 📫 Connect with me on
-LinkedIn:   https://linkedin.com/in/nilashis-saha
+# 👋 Hi there, I'm Nilashis Saha!
 
-<p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Nilashis+Saha...;Computer+Science+Student;🤖Prompt-Engineer;🚀A.I-Enthusiast...;Currently+learning+LLM-building;Currently+working+on+RAG...;📈Data-Analyst+Explorer...;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
-    
+I'm a **Computer Science Student** passionate about **Web/App Development**. Currently, I am learning how to create and deploy frontend applications using **JavaScript**, **Python**, and various frameworks.
 
-# 💻 Tech Stack:
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+## 🌱 What I'm Learning
 
-# 📊 GitHub Stats:
+- Frontend Development with JavaScript
+- Python Programming
+- Frameworks like React and Django
+- Deployment Techniques
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aFirmae&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 💞 Let's Collaborate!
 
+I’m looking to collaborate on beginner-level open-source projects. If you're interested in working together, feel free to reach out!
 
+## 📫 Connect with Me
 
+- [LinkedIn](https://linkedin.com/in/nilashis-saha)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aFirmae&icon=0&color=3)](https://visitcount.itsvg.in)
+
+## 💻 Tech Stack
+
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColorimg.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logo://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=whiteields.io/badge/python-3670A0?style=for-the-badge&logoPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logoandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=power 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aFirmae&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layou://visitcount.itsvg.in/api?id=aFirmae&icon=0&color= to customize any sections or add more details as you progress in your learning and projects!
+
+Citations:
+[1] https://www.youtube.com/watch?v=rCt9DatF63I
+[2] https://dev.to/devteam/welcome-thread-v298-3le2/comments
+[3] https://dev.to/github/10-standout-github-profile-readmes-h2o
+[4] https://dev.to/devteam/welcome-thread-v269-2naa/comments
+[5] https://www.youtube.com/watch?v=G-EGDH50hGE
+[6] https://dev.to/thepracticaldev/welcome-thread-v104-257f/comments
+[7] https://github.com/abhisheknaiidu/awesome-github-profile-readme
+[8] https://dev.to/thepracticaldev/welcome-thread-v81-41n4/comments
+
+---
