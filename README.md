@@ -1,22 +1,206 @@
-# 💫 About Me:
-Hi, I'm Nilashis Saha and I'm a student at Adamas University, studying Computer Science and Engineering. I'm a technology enthusiast and I love learning new things. I'm currently working on my B.Tech degree and will be graduating by 2026. In the meantime, I'm exploring new technologies, coding, and having fun.
+<div align="center">
 
+<!-- Custom Banner with Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&fontSize=0&animation=fadeIn" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nilashis_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nilashis-saha) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:21428569) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_aFirma_) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@Nilashis-Saha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nilashis37@gmail.com) 
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=50&duration=1&pause=999999999&color=00D9FF&center=true&vCenter=true&repeat=false&width=450&lines=Nilashis+Saha" />
+</h1>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aFirmae&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aFirmae&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aFirmae&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<h3>💻 Full Stack Developer | 🎯 Problem Solver | 🚀 Tech Enthusiast</h3>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aFirmae&theme=default&no-frame=false&no-bg=false&margin-w=4)
+<p>
+  <em>Computer Science Student @ Adamas University</em><br>
+  <em>Building scalable solutions used by 1,500+ users</em>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aFirmae&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
+
+<!-- Social Badges -->
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4F46E5?style=for-the-badge)](https://nilashis.in/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/nilashis-saha)
+[![Twitter](https://img.shields.io/badge/𝕏_Twitter-000000?style=for-the-badge)](https://x.com/_aFirma_)
+[![LeetCode](https://img.shields.io/badge/⚡_LeetCode-FFA116?style=for-the-badge)](https://leetcode.com/u/aFirma)
+[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge)](mailto:nilashis37@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=afirmae&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aFirmae&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+🔹 **Current Role:** Research & Project Intern @ **IIT Ropar**  
+🌍 **Location:** India  
+🎓 **Education:** B.Tech in Computer Science  
+💼 **Specialization:** Full-Stack Development (MERN)  
+🎯 **Interests:** Web Development, System Design, Backend Architecture  
+⚡ **Experience:** 3+ Internships across Development & Research
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages & Frameworks
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,html,css,react,nodejs,express,flask,laravel&theme=dark&perline=6" />
+  </a>
+</p>
+
+### Databases & Cloud
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,azure,gcp,docker&theme=dark&perline=6" />
+  </a>
+</p>
+
+### Tools & Technologies
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,postman,figma,git,github,selenium&theme=dark&perline=8" />
+  </a>
+</p>
+
+**Also:** Socket.io • Jest • GitHub Actions • Tailwind CSS • Bootstrap • React Native • Jira
+
+</div>
+
+---
+
+## 📈 Competitive Programming
+
+<div align="center">
+
+<a href="https://leetcode.com/u/aFirma">
+  <img src="https://leetcard.jacoblin.cool/aFirma?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=afirmae&theme=radical&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=00d9ff&currStreakNum=c9d1d9&sideNums=c9d1d9"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afirmae/afirmae/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afirmae/afirmae/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/afirmae/afirmae/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚚 Delivery Hub
+P2P logistics platform with comprehensive QA testing sandbox
+
+**Tech:** React Native, Node.js, MySQL, Jest
+
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/aFirmae/delivery-hub)
+
+</td>
+<td width="50%">
+
+### 🎓 Student Portal
+Complete student management system serving 1,500+ users
+
+**Tech:** PHP, MySQL, Bootstrap
+
+[![Live](https://img.shields.io/badge/View_Live-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aucseapp.in/cse/student_details/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ✍️ Scribe
+Real-time collaborative room-based chat application
+
+**Tech:** Flask, MongoDB, Socket.io
+
+[![Live](https://img.shields.io/badge/View_Live-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://scribe.nilashis.in/)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/aFirmae/Scribe)
+
+</td>
+<td width="50%">
+
+### 💬 Reddit Clone
+Social media platform with comprehensive E2E testing
+
+**Tech:** Node.js, MongoDB, Selenium
+
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/aFirmae/Reddit-Clone)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 👋 GestureAI
+AI-powered hand gesture detection system
+
+**Tech:** Python, OpenCV, MediaPipe
+
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/aFirmae/Hand-Gesture-Detection)
+
+</td>
+<td width="50%">
+
+### 📚 PhD Tracker
+Research progress management for doctoral students
+
+**Tech:** Laravel, MySQL, Tailwind CSS
+
+🔒 **Private Repository**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💭 Developer Wisdom
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Open to Collaborate
+
+*I'm always excited to work on innovative projects and contribute to open source!*
+
+<br/>
+
+**Let's build something amazing together** 🚀
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+</div>
